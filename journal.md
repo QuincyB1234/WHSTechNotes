@@ -7,4 +7,4 @@ Depending on how much light you produce onto the sphere bolt, reflects a certain
 # September 13, 2024 
 I think you explained evrything fine.  I did encounter some problems with following the steps but overall i understood what to do.
 # September 18, 2024 
-I did all three.
+This is a free entry.
