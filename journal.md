@@ -13,4 +13,7 @@ This is a free week
 2. Code Combat was a game rather then python which made it more fun
 3. Code combat
 4. Since its a game and many people play games, it could be more useful
-5. 
+# October 2, 2024 
+When you search up information or anything online, you are using computer science.  Without computer science, many people's lives would be different considering how many people use the internet for work, school or just information in general.
+Computer Science has evolved overtime and without it we might not be where we're at right now as a civilization.
+
