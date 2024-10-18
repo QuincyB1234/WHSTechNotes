@@ -23,3 +23,7 @@ Computer Science has evolved overtime and without it we might not be where we're
 4. A Bachelor's or graduate degree in mathematical, physical, or engineering science.
 5.  graduate degrees in engineering or business administration to learn new technology, broaden their education, and enhance their project management skills.
 6.  Because in both you use technology.
+# October 18, 2024 
+1. It breaks teaching into smaller steps
+2. It can boost your career
+3. Encouraging problem-solving, supporting personal and collaborative projects, enabling experimentation, and providing practical applications. 
