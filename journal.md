@@ -29,4 +29,6 @@ Computer Science has evolved overtime and without it we might not be where we're
 3. Encouraging problem-solving, supporting personal and collaborative projects, enabling experimentation, and providing practical applications.
 # October 25, 2024
 There are many ways AI can help, and as time goes on, those benefits will increase. AI reduces human errors, time saving capabilities, digital assistance, and unbiased decisions.  Many people rightfully believe that AI will grow into something harmful, but we'll see as time goes on.  Although there is many benefits, theres always negativees to things.  As AI advances, human laziness, job displacement, security risks, and unemployment have a chance of majorly increasing.  I dont think AI is a terrible thing but it should become limited or handeled properly at least.
+# October 28, 2024
+I think that technology impacts the election process by spreading content that in a waty changes how they feel.  When informational videos are being spread to the public, it sways their opinion about who they want to win the election.  This can be a problem because some people on social media spread convincing lies that some individuals will believe.  So although social media or technology in general is beneficial towards the election, it can still have plenty of negatives.
 
