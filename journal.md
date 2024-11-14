@@ -36,3 +36,5 @@ I think that technology impacts the election process by spreading content that i
 2. Use strong, unique passwords, enable two-factor authentication, regularly review privacy settings, and avoid sharing sensitive information publicly.
 3. Yes, I can handle it differently by not sharing personal information.
 4. By only giving them information about the work.
+# November 14, 2024 
+I big thing that is effecting the community is inflation.  Inflation is the rate at which prices for goods and services increase over time.  This is a problem because it makes caring for a family less affordable.  Inflation plays a role on technology.  While family's are spending money on groceries and necessities, it makes them not able to buy technology they need.
