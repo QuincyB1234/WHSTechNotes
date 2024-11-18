@@ -38,3 +38,5 @@ I think that technology impacts the election process by spreading content that i
 4. By only giving them information about the work.
 # November 14, 2024 
 I big thing that is effecting the community is inflation.  Inflation is the rate at which prices for goods and services increase over time.  This is a problem because it makes caring for a family less affordable.  Inflation plays a role on technology.  While family's are spending money on groceries and necessities, it makes them not able to buy technology they need.
+# November 18, 2024
+Technology has enabled precision agriculture practices, optimizing distribution networks through data analytics and automation, and providing consumers with convenient online platforms to order food from a wider variety of options with real-time tracking of deliveries.  Having technology has also helped people become better at cooking, allowing to share recipes and share food ideas.
