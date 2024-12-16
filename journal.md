@@ -44,3 +44,5 @@ Technology has enabled precision agriculture practices, optimizing distribution 
 Technology and AI are constantly advancing as time moves on.  What excites me is its potential to solve complex problems, improve lives, and create new possibilities.  An innovative way technology could be used in my field of interest is to develop a mobile app that allows citizens to easily identify and report invasive plant species in their local areas.  Some ethical considerations that need to be addressed are,  guide regulation, oversight, protection of privacy and confidentiality.  Although the advancements of technology have many benefits, it is still very important that we regulate it safely.
 # December 9, 2024 
 Brainrot has completely changed what people consider humour.  As time goes on it continues to expand, becoming in a way, modern humour.  In the past, brainrot wasnt funny but recently it definetly is.
+# December 16, 2024
+Yes, I am looking forward to winter break.
