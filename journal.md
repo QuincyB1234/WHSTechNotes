@@ -47,4 +47,4 @@ Brainrot has completely changed what people consider humour.  As time goes on it
 # December 16, 2024
 Yes, I am looking forward to winter break.
 # January 8, 2025 
-1. I enjoyed the freedom since a lot of the time youre abloe to relax.  2. Theres nothing specififc that I am looking forward to.  3. Im not really interested in any certifications
+1. I enjoyed the freedom since a lot of the time youre able to relax.  2. Theres nothing specififc that I am looking forward to.  3. Im not really interested in any certifications
