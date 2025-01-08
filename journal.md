@@ -46,3 +46,5 @@ Technology and AI are constantly advancing as time moves on.  What excites me is
 Brainrot has completely changed what people consider humour.  As time goes on it continues to expand, becoming in a way, modern humour.  In the past, brainrot wasnt funny but recently it definetly is.
 # December 16, 2024
 Yes, I am looking forward to winter break.
+# January 8, 2025 
+1. I enjoyed the freedom since a lot of the time youre abloe to relax.  2. Theres nothing specififc that I am looking forward to.  3. Im not really interested in any certifications
