@@ -48,3 +48,5 @@ Brainrot has completely changed what people consider humour.  As time goes on it
 Yes, I am looking forward to winter break.
 # January 8, 2025 
 1. I enjoyed the freedom since a lot of the time youre able to relax.  2. Theres nothing specififc that I am looking forward to.  3. Im not really interested in any certifications
+# January 15, 2025
+The tech industry is shifting towards AI skills, creating both opportunities and challenges.  AI can help workers by automating tasks, but it may limit chances for those with outdated skills.  To prepare, I would learn AI basics, stay updated on trends, and focus on skills that adapt to change
