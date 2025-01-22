@@ -50,3 +50,5 @@ Yes, I am looking forward to winter break.
 1. I enjoyed the freedom since a lot of the time youre able to relax.  2. Theres nothing specififc that I am looking forward to.  3. Im not really interested in any certifications
 # January 15, 2025
 The tech industry is shifting towards AI skills, creating both opportunities and challenges.  AI can help workers by automating tasks, but it may limit chances for those with outdated skills.  To prepare, I would learn AI basics, stay updated on trends, and focus on skills that adapt to change
+# January 22, 2025 
+Banning TikTok would effect thousands of people's lifes as people make their money from creating and posting content.  To prevent the app from stealing information, they can upgrade the security.  Im not sure, I think there's the right amount of policies.  Always ensure safety when creating anything.
