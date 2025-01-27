@@ -52,3 +52,8 @@ Yes, I am looking forward to winter break.
 The tech industry is shifting towards AI skills, creating both opportunities and challenges.  AI can help workers by automating tasks, but it may limit chances for those with outdated skills.  To prepare, I would learn AI basics, stay updated on trends, and focus on skills that adapt to change
 # January 22, 2025 
 Banning TikTok would effect thousands of people's lifes as people make their money from creating and posting content.  To prevent the app from stealing information, they can upgrade the security.  Im not sure, I think there's the right amount of policies.  Always ensure safety when creating anything.
+# January 27, 2025 
+Jimmy- Honda Civic- Drilled Hole In Gas Tank
+Kayla- GMC Sierra- Fixed Wrong Problem
+Bart- Toyota Corolla- Left Stains On Carpet
+Harrison- Subaru Forester- Left The Oil Cap Off
