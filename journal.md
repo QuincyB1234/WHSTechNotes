@@ -56,7 +56,6 @@ Banning TikTok would effect thousands of people's lifes as people make their mon
 | Name     | Car | Mistake |
 | :------- | :-- | :------ |
 | Jimmy    |Honda Civic    |Drilled Hole In Gas Tank
-         |
 | Kayla    |GMC Sierra     |Fixed Wrong Problem         |
 | Bart     |Toyota Corolla |Left Stains On Carpet         |
 | Harrison |Subaru Forester|Left The Oil Cap Off         |
