@@ -61,3 +61,6 @@ Banning TikTok would effect thousands of people's lifes as people make their mon
 | Harrison |Subaru Forester|Left The Oil Cap Off         |
 # February 3, 2025
 Air traffic control systems should be the most important improvements.  Without high functioning systems planes will be doomed to fail.
+# February 11, 2025
+I would write down all the players best attributes and assign each a player their position based on these attributes.  I would use a database for this.  Algorithms would ensure more accurate and efficient decision making.
+
