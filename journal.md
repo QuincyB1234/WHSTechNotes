@@ -63,4 +63,6 @@ Banning TikTok would effect thousands of people's lifes as people make their mon
 Air traffic control systems should be the most important improvements.  Without high functioning systems planes will be doomed to fail.
 # February 11, 2025
 I would write down all the players best attributes and assign each a player their position based on these attributes.  I would use a database for this.  Algorithms would ensure more accurate and efficient decision making.
+# February 18, 2025 
+I learned about how to build a snow shelter.  This is interesting to me because the idea of building shelter out of nature is cool to me.
 
