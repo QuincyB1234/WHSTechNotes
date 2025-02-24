@@ -65,4 +65,6 @@ Air traffic control systems should be the most important improvements.  Without 
 I would write down all the players best attributes and assign each a player their position based on these attributes.  I would use a database for this.  Algorithms would ensure more accurate and efficient decision making.
 # February 18, 2025 
 I learned about how to build a snow shelter.  This is interesting to me because the idea of building shelter out of nature is cool to me.
+# February 24, 2025 
+Technology, like translation apps and social media, helps people of different ages communicate better.  However, its important to remember that understanding culture is also kwy to good communication.
 
