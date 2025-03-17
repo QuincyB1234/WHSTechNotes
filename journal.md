@@ -75,4 +75,5 @@ Technology, like translation apps and social media, helps people of different ag
 | Thorne |Invisibility        |Underwater Rescue         |
 | Silver |Mind Control        |Recieve Stolen Goods         |
 | Tangier|Shapeshifting       |Extract Prisoner         |
-
+# March 17, 2025
+Over spring break, I used technology such as the playstation 5, my phone and tv.
