@@ -77,3 +77,5 @@ Technology, like translation apps and social media, helps people of different ag
 | Tangier|Shapeshifting       |Extract Prisoner         |
 # March, 17, 2025
 Over spring break, I used technology such as the playstation 5, my phone and tv.
+# March, 19, 2025
+Dance Party: AI edition
