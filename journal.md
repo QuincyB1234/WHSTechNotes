@@ -79,3 +79,6 @@ Technology, like translation apps and social media, helps people of different ag
 Over spring break, I used technology such as the playstation 5, my phone and tv.
 # March 19, 2025
 Dance Party: AI edition
+# March 24, 2025
+Technology has changed March Madness by making predictions easier with AI and adding interactive features with AR.  While exciting, it can take away from the unpredictability of the games.
+Social media connects fans in real time, making the experience more engaging but also more distracting.  Technology enhances March Madness but also changes how we enjoy it.
