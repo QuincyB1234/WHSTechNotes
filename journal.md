@@ -82,3 +82,5 @@ Dance Party: AI edition
 # March 24, 2025
 Technology has changed March Madness by making predictions easier with AI and adding interactive features with AR.  While exciting, it can take away from the unpredictability of the games.
 Social media connects fans in real time, making the experience more engaging but also more distracting.  Technology enhances March Madness but also changes how we enjoy it.
+# April 31, 2025
+1. I feel good 2. Keeping up my grades 3. breath 4. Have A's and B's 5. Friends and family
