@@ -84,3 +84,5 @@ Technology has changed March Madness by making predictions easier with AI and ad
 Social media connects fans in real time, making the experience more engaging but also more distracting.  Technology enhances March Madness but also changes how we enjoy it.
 # March 31, 2025
 1. I feel good 2. Keeping up my grades 3. breath 4. Have A's and B's 5. Friends and family
+# April 7, 2025
+Price attributes this success to the AI tutor and adaptive apps, stating, "Our students are learning faster, they're learning way better." The AI tutor's role in the classroom is to provide a completely tailored learning experience for every student, which has resulted in the dramatic improvement of test scores.
