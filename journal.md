@@ -88,3 +88,7 @@ Social media connects fans in real time, making the experience more engaging but
 Price attributes this success to the AI tutor and adaptive apps, stating, "Our students are learning faster, they're learning way better." The AI tutor's role in the classroom is to provide a completely tailored learning experience for every student, which has resulted in the dramatic improvement of test scores.
 # April 14, 2025
 I think cell phone bans can help students focus more in class and stop some bullying online.  Without phones, it's easier to pay attention and learn better.  Some students might also talk to each other more in person.  But phones are also useful in emergencies or for personal reasons.  If my school made this rule, I'd probably be annoyed at first. But if we were still allowed to use phones during lunch or after school, I'd be okay with it.
+# April 22, 2025
+Dear Ms.Whitby
+I just wanted to thank you for everything you do.  Your support and hard work really makes a difference, and i truly appreciate it.
+Sincerely, Quincy Brown
