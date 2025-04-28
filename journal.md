@@ -94,7 +94,10 @@ I just wanted to thank you for everything you do.  Your support and hard work re
 Sincerely, Quincy Brown
 # April 28, 2025
 
-Name  |	Flavor	      |Occasion	        |Price
-Sally |	Chocolate     |	Graduation	    |$35.00
-Michae|l	Vanilla     |	Farewell Party	|$37.00
-Emma	|Carrot	Birthday|	Birthday        |$39.00
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    |Chocolate|Graduation     |$35.00        
+| Michael  |Vanilla  |Farewell Party |$37.00       
+| Emma     |Carrot   |Birthday       |$39.00 
+
+----
