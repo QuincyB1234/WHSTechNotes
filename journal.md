@@ -99,5 +99,7 @@ Sincerely, Quincy Brown
 | Sally    |Chocolate|Graduation     |$35.00        
 | Michael  |Vanilla  |Farewell Party |$37.00       
 | Emma     |Carrot   |Birthday       |$39.00 
-
-----
+# May 5, 2025
+1. I think the 100 people could win if they have the right strategy.
+2. Challenges like these could inform people about gorillas.
+3. I think it shows that people are willing to dive deeper into interesting topics like this rather then the topics taught at school.
