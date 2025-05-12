@@ -103,3 +103,5 @@ Sincerely, Quincy Brown
 1. I think the 100 people could win if they have the right strategy.
 2. Challenges like these could inform people about gorillas.
 3. I think it shows that people are willing to dive deeper into interesting topics like this rather then the topics taught at school.
+# May 12, 2025
+The chromebook trend is not ethical.  This trend has led to chromebooks catching on fire and the device being destroyed.  Safety is important because without it, people could be harmed.
