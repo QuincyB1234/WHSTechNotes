@@ -105,3 +105,5 @@ Sincerely, Quincy Brown
 3. I think it shows that people are willing to dive deeper into interesting topics like this rather then the topics taught at school.
 # May 12, 2025
 The chromebook trend is not ethical.  This trend has led to chromebooks catching on fire and the device being destroyed.  Safety is important because without it, people could be harmed.
+# May 19, 2025
+I am really excited for summer
